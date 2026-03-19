@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Chii
 
-<!--
-**chiicvs/chiicvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Talent Acquisition Specialist focused on **tech hiring** and building strong engineering teams globally.
 
-Here are some ideas to get you started:
+## Currently hiring for:
+- Senior DevOps Engineer
+- Senior Database Administrator (DBA)
+- Technical Product Owner
+- UX Designer
+- Enterprise Solutions Architect
+- SharePoint Administrator
+- Business Applications Support Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Scope
+Global Talent Acquisition | Open to tech professionals worldwide
+
+## 💬 Open to:
+- Tech career opportunities discussions
+- Collaboration
+- Tech conversations
+
+If you’re exploring opportunities or just want to connect, feel free to reach out.
