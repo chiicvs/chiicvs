@@ -14,7 +14,7 @@ I’m a Talent Acquisition Specialist focused on **tech hiring** and building st
 ## Scope
 Global Talent Acquisition | Open to tech professionals worldwide
 
-## 💬 Open to:
+## Open to:
 - Tech career opportunities discussions
 - Collaboration
 - Tech conversations
